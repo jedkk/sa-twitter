@@ -4,8 +4,8 @@ data mining project to attempt to solve a business problem
 ### data_prep_ML.ipynb
 data preparation for machine learning
 
-### Group16_LDA.ipynb
-Supplementary LDA attempt
+### LDA.ipynb
+an attempt at topic modelling with LDA
 
 ### run_twint.py
 Twitter scraper using Twint
