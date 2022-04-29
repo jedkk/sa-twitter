@@ -1,4 +1,4 @@
-# sentiment analysis-twitter
+# sentiment analysis project - twitter
 data mining project to attempt to solve a business problem
 ------------------------------------------------------------------------
 ### data_prep_ML.ipynb
