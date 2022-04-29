@@ -1,5 +1,5 @@
 # sentiment analysis project - twitter
-data mining project to attempt to solve a business problem
+data mining project to attempt to identify sentiments of consumers on specific products or topics, possibly helping the company improve in whatever way possible
 ------------------------------------------------------------------------
 ### data_prep_ML.ipynb
 data preparation for machine learning
