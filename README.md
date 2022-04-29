@@ -7,7 +7,7 @@ data preparation for machine learning
 ### LDA.ipynb
 an attempt at topic modelling with LDA
 
-### run_twint.py
+### twint.py
 Twitter scraper using Twint
 
 ## train_labelled.csv
