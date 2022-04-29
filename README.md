@@ -10,9 +10,6 @@ an attempt at topic modelling with LDA
 ### run_twint.py
 Twitter scraper using Twint
 
-### dropNclean.ipynb
-Cleaning of data
-
 ## train_labelled.csv
 Labelled data: 2020 rows
 
